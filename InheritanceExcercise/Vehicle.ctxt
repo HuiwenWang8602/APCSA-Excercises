@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics2D)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ bounce()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Euler
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=double\ findEuler()
+comment3.params=i
+comment3.target=double\ findFactorial(double)
+numComments=4
